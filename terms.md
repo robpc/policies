@@ -29,4 +29,4 @@ The operator is not liable for any damages arising from use of the service.
 
 ## Contact
 
-Questions: rpcann@gmail.com
+Open an issue at https://github.com/robpc/policies/issues.

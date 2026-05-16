@@ -30,4 +30,4 @@ message content.
 
 ## Contact
 
-Questions: rpcann@gmail.com
+Open an issue at https://github.com/robpc/policies/issues.
