@@ -9,24 +9,19 @@ Assistant Bob is a personal automation system operated by Rob Cannon. Subscripti
 is restricted to the operator; the service does not solicit or accept third-party
 subscribers.
 
-## Sign up
+## Subscription status
 
-<form action="javascript:void(0)" onsubmit="alert('This is a personal-use service. Subscription is not open to the public.'); return false;" style="max-width:32rem;border:1px solid #ddd;padding:1rem;border-radius:6px;">
-  <label for="phone" style="display:block;margin-bottom:0.5rem;">Mobile phone number (E.164 format):</label>
-  <input id="phone" name="phone" type="tel" placeholder="+1XXXXXXXXXX" pattern="\+[0-9]{7,15}" required style="width:100%;padding:0.5rem;margin-bottom:1rem;" />
-  <label style="display:block;margin-bottom:1rem;font-size:0.9rem;">
-    <input type="checkbox" required /> I am the operator of this service, I consent
-    to receive SMS messages from Assistant Bob at the number above, and I have read
-    the <a href="/policies/privacy">Privacy Policy</a> and
-    <a href="/policies/terms">Terms of Service</a>.
-  </label>
-  <button type="submit" style="padding:0.5rem 1rem;">Subscribe</button>
-</form>
+<div style="max-width:32rem;border:1px solid #ddd;padding:1rem;border-radius:6px;background:#f7f7f7;">
+  <strong>Closed — operator only.</strong><br/>
+  This service is operated and used solely by Rob Cannon. The operator has
+  consented to receive messages by configuring their own mobile number in the
+  system. Subscription is not open to additional users; there is no public
+  sign-up form.
+</div>
 
-## What you are agreeing to
+## Consent and disclosures
 
-By providing your mobile number and submitting the form above, you agree to receive
-SMS messages from Assistant Bob, including:
+The operator has consented to receive SMS messages from Assistant Bob, including:
 
 - Scheduled daily and weekly summaries
 - Product back-in-stock and feed-update alerts
